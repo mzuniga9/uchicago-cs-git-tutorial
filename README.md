@@ -1,1 +1,2 @@
-magaly zuniga mzuniga9 hi 
+magaly zuniga mzuniga9 
+UChicago CS Git Tutorial
